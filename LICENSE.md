@@ -1,4 +1,4 @@
-# 
+# Exclusive Fences scripts for Mac OS | Lightweight Fences scripts for PC Windows. Featuring command line support and data export — optimized for maximum performance on every platform.
 
 
 
